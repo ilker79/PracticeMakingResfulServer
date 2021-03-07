@@ -11,6 +11,14 @@ namespace PracticeMakingResfulServer.Controllers
     [Route("[controller]")]
     public class NoteController : ControllerBase
     {
-        
+        static Note ourNote = new Note();
+
+        [HttpGet]
+
+        public Note Get()
+        {
+            //Note returnnotes = ourNote;
+            return ourNote;
+        } 
     }
 }

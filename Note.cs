@@ -13,7 +13,7 @@ namespace PracticeMakingResfulServer
         //     set { date = value; }
         // }
 
-        private string text;
+        private string text = "Your Text Here";
 
         public string Text
         {

@@ -27,3 +27,32 @@ C:\Users\bootcamp12\Desktop\Bootcamp 5th\PracticeWithGlenn\PracticeMakingResfulS
 C:\Users\bootcamp12\Desktop\Bootcamp 5th\PracticeWithGlenn\PracticeMakingResfulServer\obj\Debug\net5.0\ref\PracticeMakingResfulServer.dll
 C:\Users\bootcamp12\Desktop\Bootcamp 5th\PracticeWithGlenn\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.pdb
 C:\Users\bootcamp12\Desktop\Bootcamp 5th\PracticeWithGlenn\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.genruntimeconfig.cache
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\appsettings.Development.json
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\appsettings.json
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\PracticeMakingResfulServer.exe
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\PracticeMakingResfulServer.deps.json
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\PracticeMakingResfulServer.runtimeconfig.json
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\PracticeMakingResfulServer.runtimeconfig.dev.json
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\PracticeMakingResfulServer.dll
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\ref\PracticeMakingResfulServer.dll
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\PracticeMakingResfulServer.pdb
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.csprojAssemblyReference.cache
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.AssemblyInfoInputs.cache
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.AssemblyInfo.cs
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.csproj.CoreCompileInputs.cache
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.MvcApplicationPartsAssemblyInfo.cs
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.MvcApplicationPartsAssemblyInfo.cache
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\staticwebassets\PracticeMakingResfulServer.StaticWebAssets.Manifest.cache
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\staticwebassets\PracticeMakingResfulServer.StaticWebAssets.xml
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\scopedcss\bundle\PracticeMakingResfulServer.styles.css
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.RazorTargetAssemblyInfo.cache
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.csproj.CopyComplete
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.dll
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\ref\PracticeMakingResfulServer.dll
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.pdb
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.genruntimeconfig.cache
