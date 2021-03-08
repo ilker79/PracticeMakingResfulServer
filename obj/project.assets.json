@@ -287,24 +287,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bootcamp12\\.nuget\\packages\\": {}
+    "C:\\Users\\Prime\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\PracticeWithGlenn\\PracticeMakingResfulServer\\PracticeMakingResfulServer.csproj",
+      "projectUniqueName": "F:\\Dropbox\\soc\\Personal\\Projects with Iilker\\PracticeMakingResfulServer\\PracticeMakingResfulServer.csproj",
       "projectName": "PracticeMakingResfulServer",
-      "projectPath": "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\PracticeWithGlenn\\PracticeMakingResfulServer\\PracticeMakingResfulServer.csproj",
-      "packagesPath": "C:\\Users\\bootcamp12\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\PracticeWithGlenn\\PracticeMakingResfulServer\\obj\\",
+      "projectPath": "F:\\Dropbox\\soc\\Personal\\Projects with Iilker\\PracticeMakingResfulServer\\PracticeMakingResfulServer.csproj",
+      "packagesPath": "C:\\Users\\Prime\\.nuget\\packages\\",
+      "outputPath": "F:\\Dropbox\\soc\\Personal\\Projects with Iilker\\PracticeMakingResfulServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bootcamp12\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Prime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
