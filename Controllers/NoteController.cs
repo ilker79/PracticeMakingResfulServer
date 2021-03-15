@@ -11,15 +11,30 @@ namespace PracticeMakingResfulServer.Controllers
     [Route("[controller]")]
     public class NoteController : ControllerBase
     {
-        static Note _myNote = new Note();
+        //Our hard coded one line database.
+        //static Note _myNote = new Note();
+
+        private readonly NoteRepository _noteRepository;
+
+        public NoteController()
+        {
+            _noteRepository = new NoteRepository();
+        }
+
 
         [HttpGet]
 
-        public Note Get()
+        public IEnumerable<Note> GetALL()
         {
+            return _noteRepository.GetAll();
+        }
+
+        //public Note Get()
+        //{
             //Note returnnotes = ourNote;
-            return _myNote;
-        } 
+            //return _myNote;
+        //} 
+
 
         [HttpPut]
        
