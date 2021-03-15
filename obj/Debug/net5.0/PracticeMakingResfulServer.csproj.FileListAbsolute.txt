@@ -56,3 +56,5 @@ F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debu
 F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\ref\PracticeMakingResfulServer.dll
 F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.pdb
 F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\obj\Debug\net5.0\PracticeMakingResfulServer.genruntimeconfig.cache
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\Dapper.dll
+F:\Dropbox\soc\Personal\Projects with Iilker\PracticeMakingResfulServer\bin\Debug\net5.0\Npgsql.dll
